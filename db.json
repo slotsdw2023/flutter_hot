@@ -1,7 +1,7 @@
 {
   "AB": {
     "A": {
-      "U": "1",
+      "U": "https://m.920.bet/",
       "onoff": 1,
       "isios": 0,
       "iosU": "1",
@@ -13,20 +13,32 @@
         "KR"
       ],
       "Event": [
+        "af_click_registration",
+        "af_complete_registration",
+        "af_purchase",
+        "completeSignup",
         "login",
-        "logout",
+        "logout"，
+        "recharge",
         "rechargeClick",
         "register",
         "registerClick",
-        "withdrawClick"
+        "signup",
+        "withdrawClick",
       ],
       "ID": [
+        "kjyfeg",
+        "unfflz",
+        "gjsplt",
+        "12kfza",
         "a2ky62",
         "7muoch",
-        "2taag2",
-        "sdgh16",
-        "jn6r0o",
-        "dwl0sm"
+         "ghylyl",
+         "2taag2",
+         "sdgh16",
+         "jn6r0o",
+         "jphb7j",
+         "dwl0sm"
       ]
     }
   }
