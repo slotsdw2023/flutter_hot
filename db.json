@@ -1,8 +1,8 @@
 {
   "AB": {
     "A": {
-      "U": "1",
-      "onoff":0,
+      "U": "https://m.24kbet.com/register?agentCode=1m9t4I7Y",
+      "onoff":1,
       "isios":0,
       "iosU": "1",
       "Area": [
@@ -11,7 +11,7 @@
         "HK",
         "PH",
         "CN",
-        "KR"
+        "IN"
       ],
       "Event": [
         "af_click_registration",
